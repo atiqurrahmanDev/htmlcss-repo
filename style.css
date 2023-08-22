@@ -1,0 +1,46 @@
+small{
+    color: rgb(39, 151, 45);
+}
+.blog{
+    background-color: antiquewhite;
+    border: 2px solid black;
+    margin: 30px 10px 50px 70px;
+    padding: 20px;
+}
+.name{
+    color:rgb(255, 0, 0) ;
+}
+
+#bracket{
+    border: 2px dashed black;
+    margin: 20px;
+    padding-top: 10px;
+    padding-right: 20px;
+    padding-bottom: 30px;
+    padding-left: 40px;                   
+}
+#dash{
+    border: 3px dotted black;
+    border-radius: 20px;
+    padding: 20px 10px 30px 40px;
+}
+#alu{
+    border: 3px solid;
+    border-color: aqua;
+    padding: 20px 10px 3px .5in;
+    width: 50%;
+    height: 200px;
+    margin: 0 auto;
+    text-align: justify;
+}
+
+.blog_title{
+    text-align: center;
+    font-size: 2em;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 700;
+}
+.blog p{
+    color: blue;
+    text-align: justify;
+}
